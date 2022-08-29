@@ -1,6 +1,5 @@
 ---
 layout: default
-ladginsin: déjafnsfg
 ---
 > [Documentation](./docs/lifesteal/index)
 >  
