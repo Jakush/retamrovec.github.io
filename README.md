@@ -1,4 +1,5 @@
-> [Documentation](./docs/lifesteal/index) 
+> [Documentation](./docs/lifesteal/index)
+>  
 > [SpigotMC](https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/)
 * * *
 
