@@ -10,7 +10,7 @@ LifeSteal has API too, and it is the most updated plugin with best features.
   <dt>SPIGOTMC</dt>
   <dd>[Link](https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/)</dd>
   <dt>Documentation</dt>
-  <dd>[Link](./docs/lifesteal/index.html)
+  <dd>[Link](./docs/lifesteal/index.html)</dd>
   <dt>API</dt>
-  <dd>[Link](./api/lifesteal/index.html)  
+  <dd>[Link](./api/lifesteal/index.html)</dd>
 </dl>
