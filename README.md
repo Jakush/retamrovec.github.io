@@ -1,7 +1,7 @@
 | Documentation | SpigotMC |
 | --- | --- |
 | [LINK](./docs/lifesteal/index) | [LINK](https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/) |
-| --- | --- |
+# Information
 This page is currently only beta but still better to have something than nothing!
 There are documentations for all public Fine Software plugins.
 # Fine LifeSteal
