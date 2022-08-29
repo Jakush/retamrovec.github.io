@@ -6,11 +6,8 @@ There are documentations for all public Fine Software plugins.
 # Fine LifeSteal
 This is for now the most public plugin maded by me, this plugin is simple and I always helping people with their problems.
 LifeSteal has API too, and it is the most updated plugin with best features.
-<dl>
-  <dt>SPIGOTMC</dt>
-  <dd>[Link](https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/)</dd>
-  <dt>Documentation</dt>
-  <dd>[Link](./docs/lifesteal/index.html)</dd>
-  <dt>API</dt>
-  <dd>[Link](./api/lifesteal/index.html)</dd>
-</dl>
+<section id="buttons">
+  <a href="https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/" class="btn">SpigotMC</a>
+  <a href="./docs/lifesteal/index" class="btn">Documentation</a>
+  <a href="./api/lifesteal/index" class="btn">API</a>
+</section>
