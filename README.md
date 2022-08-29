@@ -1,5 +1,5 @@
-`#ffffff` Documentation - [LINK](./docs/lifesteal/index)
-`#ffffff` SpigotMC - [LINK](https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/)
+* Documentation - [LINK](./docs/lifesteal/index)
+* SpigotMC - [LINK](https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/)
 This page is currently only beta but still better to have something than nothing!
 There are documentations for all public Fine Software plugins.
 # Fine LifeSteal
